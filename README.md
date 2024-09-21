@@ -14,3 +14,5 @@ Implements reconnection logic with a 5-second retry delay.
 Error handling and automatic ping-pong responses to maintain a stable WebSocket connection.
 Usage:
 Simply run the script to start receiving and logging real-time trade data from Binance. The on_message function can be modified to process trade data or other event types according to your needs.
+
+[https://www.youtube.com/watch?v=CXruFsa1SMQ](Proof of concept)
