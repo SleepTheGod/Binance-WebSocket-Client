@@ -25,7 +25,7 @@ Watch the proof of concept video on YouTube.
 ```bash
  git clone https://github.com/SleepTheGod/Binance-WebSocket-Client
 cd Binance-WebSocket-Client
-pip install requirements.txt
+pip install -r requirements.txt
 chmod +x main.py
 python main.py
 ```
